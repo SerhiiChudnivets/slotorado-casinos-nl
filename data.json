@@ -77,14 +77,14 @@
   "home_name": "Slotorado Casino",
   "subdomains": null,
   "accent_color": "#334155",
-  "main_background": "#0d3961",
-  "secondary_background": "#051a2c",
-  "button_background": "#c0fd7a",
-  "button_text_color": "#051a2c",
+  "main_background": "#121826",
+  "secondary_background": "#0b0f1a",
+  "button_background": "#f2b632",
+  "button_text_color": "#1a1206",
   "text_color": "#ffffff",
-  "color_highlight_text": "#ffffff",
-  "color_main_btn_text": "#051a2c",
-  "cta_background": "#c0fd7a",
+  "color_highlight_text": "#f2b632",
+  "color_main_btn_text": "#1a1206",
+  "cta_background": "#ff8a1f",
   "logo": {
     "url": "/uploads/slotrado-casino-logo_N-N-N-N-N.webp"
   },
@@ -97,19 +97,13 @@
   "header_menu": [
     {
       "link": "/play/",
-      "label": "Applicatie",
-      "submenu": [],
-      "openInNewTab": false
-    },
-    {
-      "link": "/play/",
       "label": "Bonus",
       "submenu": [],
       "openInNewTab": false
     },
     {
       "link": "/play/",
-      "label": "Gokkasten",
+      "label": "Inloggen",
       "submenu": [],
       "openInNewTab": false
     },
@@ -118,18 +112,36 @@
       "label": "Uitbetaling",
       "submenu": [],
       "openInNewTab": false
+    },
+    {
+      "link": "/play/",
+      "label": "Applicatie",
+      "submenu": [],
+      "openInNewTab": false
     }
   ],
   "footer_menu": [
     {
       "link": "/play/",
-      "label": "Privacy Policy",
+      "label": "Over ons",
       "submenu": [],
       "openInNewTab": false
     },
     {
       "link": "/play/",
-      "label": "Cookiebeleid",
+      "label": "Contact",
+      "submenu": [],
+      "openInNewTab": false
+    },
+    {
+      "link": "/play/",
+      "label": "Verantwoord spelen",
+      "submenu": [],
+      "openInNewTab": false
+    },
+    {
+      "link": "/play/",
+      "label": "Privacybeleid",
       "submenu": [],
       "openInNewTab": false
     },
@@ -141,13 +153,7 @@
     },
     {
       "link": "/play/",
-      "label": "Contacten",
-      "submenu": [],
-      "openInNewTab": false
-    },
-    {
-      "link": "/play/",
-      "label": "Wedregels",
+      "label": "Cookiebeleid",
       "submenu": [],
       "openInNewTab": false
     }
@@ -155,18 +161,13 @@
   "footer_images": [
     {
       "link": "/play/",
-      "image": "/uploads/292521eb44c05ec0fdfefa6dbaa3dd0c.svg",
-      "image_alt": "apple pay"
+      "image": "/uploads/0df6baa1669725275040d7f4782ccb60.webp",
+      "image_alt": "visa"
     },
     {
       "link": "/play/",
-      "image": "/uploads/767309a1bb8da0f68e987f277a6ebbf1.webp",
-      "image_alt": "bitcoin"
-    },
-    {
-      "link": "/play/",
-      "image": "/uploads/acd94c7d64c4572fa58fc8f828f74bd8.svg",
-      "image_alt": "googlepay"
+      "image": "/uploads/97884414b5bebb9e6c0331960aa5c71c.webp",
+      "image_alt": "mastercard"
     },
     {
       "link": "/play/",
@@ -257,8 +258,8 @@
       "question": "Wat is de minimale uitbetaling?"
     }
   ],
-  "_generated_at": "2026-11-10T23:45:14.031Z",
+  "_generated_at": "2026-11-10T23:54:49.052Z",
   "_version": "1.0.0",
-  "_last_deploy": "2026-11-10T23:45:14.681Z",
-  "_deploy_trigger": "bno3qs"
+  "_last_deploy": "2026-11-10T23:54:49.677Z",
+  "_deploy_trigger": "5n8pj4"
 }
