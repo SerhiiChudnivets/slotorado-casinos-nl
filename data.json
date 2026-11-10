@@ -1,171 +1,77 @@
 {
   "name": "slotorado-casinos.nl",
-  "site_name": "GramsBet Casino NL – Speel Online & Pak tot €10.000 Bonus",
-  "html_head": "<link rel=\"canonical\" href=\"https://gramsbetcasino-nl.nl/nl-nl/\">\n<link rel=\"alternate\" href=\"https://gramsbetcasino-nl.nl/\" hreflang=\"nl\">\n<link rel=\"alternate\" href=\"https://gramsbetcasino-nl.nl/nl-nl/\" hreflang=\"nl-NL\">\n<meta property=\"og:locale\" content=\"nl_NL\">\n<meta property=\"og:type\" content=\"website\">\n<meta property=\"og:title\" content=\"GramsBet Casino NL – Speel Online & Pak tot €10.000 Bonus\">\n<meta property=\"og:description\" content=\"Speel de beste slots bij GramsBet Casino! Ontvang tot €10.000 + 777 FS welkomstbonus. Gelicentieerd casino met snelle uitbetalingen via iDEAL & crypto.\">\n<meta property=\"og:url\" content=\"gramsbetcasino-nl.nl\">\n<meta property=\"og:site_name\" content= \"Daytona Spin Casino\">\n",
+  "site_name": "Slotorado Casino Nederland 🎁 255% tot €2.500 + 260 FS",
+  "html_head": "<link rel=\"canonical\" href=\"https://slotorado-casinos.nl/\">\n<link rel=\"alternate\" href=\"https://slotorado-casinos.nl/\" hreflang=\"nl-NL\">\n<link rel=\"alternate\" href=\"https://slotorado-casinos.nl/\" hreflang=\"x-default\">\n<meta property=\"og:locale\" content=\"nl_NL\">\n<meta property=\"og:type\" content=\"website\">\n<meta property=\"og:title\" content=\"Slotorado Casino Nederland | 255% tot €2.500 + 260 FS\">\n<meta property=\"og:description\" content=\"Slotorado casino voor Nederlandse spelers: 15.000+ spellen, welkomstpakket 255% tot €2.500 + 260 FS, wekelijkse bonuscodes en tot 15% cashback.\">\n<meta property=\"og:url\" content=\"https://slotorado-casinos.nl/\">\n<meta property=\"og:site_name\" content=\"Slotorado Casino\">\n<meta property=\"og:image\" content=\"https://slotorado-casinos.nl/uploads/slotrado-casino-baner_N-N-N-N-N.webp\">\n<meta name=\"twitter:card\" content=\"summary_large_image\">\n<meta name=\"twitter:title\" content=\"Slotorado Casino Nederland | 255% tot €2.500 + 260 FS\">\n<meta name=\"twitter:description\" content=\"Slotorado casino voor Nederlandse spelers: 15.000+ spellen, welkomstpakket 255% tot €2.500 + 260 FS, wekelijkse bonuscodes en tot 15% cashback.\">\n<meta name=\"twitter:image\" content=\"https://slotorado-casinos.nl/uploads/slotrado-casino-baner_N-N-N-N-N.webp\">",
   "url": "slotorado-casinos.nl",
   "template": "tupchiy",
-  "language_code": "nl",
+  "language_code": "nl-NL",
   "allow_indexing": false,
   "redirect_404s_to_homepage": true,
   "use_www_version": false,
   "breadcrumbs": true,
-  "content": "<p></p>",
-  "pages": [
-    {
-      "id": 127,
-      "title": "Slotorado Casino",
-      "slug": "nl-nl",
-      "content": "<p></p>",
-      "seoTitle": "GramsBet Casino NL – Speel Online & Pak tot €10.000 Bonus",
-      "seoDescription": "Speel de beste slots bij GramsBet Casino! Ontvang tot €10.000 + 777 FS welkomstbonus. Gelicentieerd casino met snelle uitbetalingen via iDEAL & crypto.",
-      "htmlHead": "<link rel=\"canonical\" href=\"https://gramsbetcasino-nl.nl/nl-nl/\">\n<link rel=\"alternate\" href=\"https://gramsbetcasino-nl.nl/\" hreflang=\"nl\">\n<link rel=\"alternate\" href=\"https://gramsbetcasino-nl.nl/nl-nl/\" hreflang=\"nl-NL\">\n<meta property=\"og:locale\" content=\"nl_NL\">\n<meta property=\"og:type\" content=\"website\">\n<meta property=\"og:title\" content=\"GramsBet Casino NL – Speel Online & Pak tot €10.000 Bonus\">\n<meta property=\"og:description\" content=\"Speel de beste slots bij GramsBet Casino! Ontvang tot €10.000 + 777 FS welkomstbonus. Gelicentieerd casino met snelle uitbetalingen via iDEAL & crypto.\">\n<meta property=\"og:url\" content=\"gramsbetcasino-nl.nl\">\n<meta property=\"og:site_name\" content= \"Daytona Spin Casino\">\n",
-      "gptPrompt": "",
-      "heroTitle": "GramsBet Casino voor spelers uit Nederland",
-      "heroSubtitle": "Van spin naar winst in minuten",
-      "heroBadge": "GramsBet Casino – Jouw Partner in Winst",
-      "ctaText": "Claim je bonus",
-      "tagline": "WELCOME BONUS 500% up to €10000+777 FS",
-      "heroImage": "",
-      "template": "homepage",
-      "isHomepage": false,
-      "order": 0,
-      "lang": "nl-NL",
-      "faqTitle": "FAQ – Veelgestelde Vragen",
-      "popupText": "WELCOME BONUS 500% up to €10000+777 FS",
-      "popupLogo": "",
-      "sections": null,
-      "slots": [
-        {
-          "link": "/play/",
-          "logo": "",
-          "name": "",
-          "Name": ""
-        },
-        {
-          "link": "/play/",
-          "logo": "",
-          "name": "",
-          "Name": ""
-        },
-        {
-          "link": "/play/",
-          "logo": "",
-          "name": "",
-          "Name": ""
-        },
-        {
-          "link": "/play/",
-          "logo": "",
-          "name": "",
-          "Name": ""
-        }
-      ],
-      "bonuses": [
-        {
-          "link": "/play/",
-          "logo": "",
-          "name": "",
-          "Name": ""
-        },
-        {
-          "link": "/play/",
-          "logo": "",
-          "name": "",
-          "Name": ""
-        },
-        {
-          "link": "/play/",
-          "logo": "",
-          "name": "",
-          "Name": ""
-        },
-        {
-          "link": "/play/",
-          "logo": "",
-          "name": "",
-          "Name": ""
-        }
-      ],
-      "faq": [],
-      "globalSlotSetId": null,
-      "globalReviewSetId": null,
-      "websiteId": 207,
-      "createdAt": {},
-      "updatedAt": {},
-      "globalSlotSet": null,
-      "globalReviewSet": null,
-      "popup_text": "WELCOME BONUS 500% up to €10000+777 FS",
-      "hero_title": "GramsBet Casino voor spelers uit Nederland",
-      "hero_subtitle": "Van spin naar winst in minuten",
-      "seo_title": "GramsBet Casino NL – Speel Online & Pak tot €10.000 Bonus",
-      "seo_description": "Speel de beste slots bij GramsBet Casino! Ontvang tot €10.000 + 777 FS welkomstbonus. Gelicentieerd casino met snelle uitbetalingen via iDEAL & crypto.",
-      "html_head": "<link rel=\"canonical\" href=\"https://gramsbetcasino-nl.nl/nl-nl/\">\n<link rel=\"alternate\" href=\"https://gramsbetcasino-nl.nl/\" hreflang=\"nl\">\n<link rel=\"alternate\" href=\"https://gramsbetcasino-nl.nl/nl-nl/\" hreflang=\"nl-NL\">\n<meta property=\"og:locale\" content=\"nl_NL\">\n<meta property=\"og:type\" content=\"website\">\n<meta property=\"og:title\" content=\"GramsBet Casino NL – Speel Online & Pak tot €10.000 Bonus\">\n<meta property=\"og:description\" content=\"Speel de beste slots bij GramsBet Casino! Ontvang tot €10.000 + 777 FS welkomstbonus. Gelicentieerd casino met snelle uitbetalingen via iDEAL & crypto.\">\n<meta property=\"og:url\" content=\"gramsbetcasino-nl.nl\">\n<meta property=\"og:site_name\" content= \"Daytona Spin Casino\">\n",
-      "faq_title": "FAQ – Veelgestelde Vragen",
-      "hero_badge": "GramsBet Casino – Jouw Partner in Winst",
-      "cta_text": "Claim je bonus"
-    }
-  ],
+  "content": "<p>Slotorado casino is een online casino met een enorme spelbibliotheek van meer dan 15.000 titels van ruim 130 softwareproviders. Nieuwe spelers starten met een welkomstpakket van 255% tot €2.500 plus 260 free spins, verdeeld over de eerste drie stortingen. Daarnaast zijn er elke week acties met een eigen bonuscode, een VIP-programma met 17 niveaus en tot 15% wekelijkse cashback. Je speelt in euro’s, betaalt met kaart, Apple Pay, Google Pay, Open Banking of crypto, en de klantenservice is 24/7 bereikbaar via live chat.</p><p>Op deze pagina lees je alles wat je als speler uit Nederland moet weten over Slotorado casino: van de bonussen en spellen tot registreren, inloggen, stortingen en uitbetalingen. Of je de naam nu als Slotorado of als Sloto Rado intypt, het gaat om hetzelfde casino met hetzelfde account en dezelfde promoties.</p><table style=\"min-width: 319px;\"><colgroup><col style=\"min-width: 25px;\"><col style=\"width: 294px;\"></colgroup><tbody><tr><td colspan=\"1\" rowspan=\"1\"><p>Kenmerk</p></td><td colspan=\"1\" rowspan=\"1\" colwidth=\"294\"><p>Details</p></td></tr><tr><td colspan=\"1\" rowspan=\"1\"><p>Spelaanbod</p></td><td colspan=\"1\" rowspan=\"1\" colwidth=\"294\"><p>15.000+ spellen van 130+ providers</p></td></tr><tr><td colspan=\"1\" rowspan=\"1\"><p>Welkomstpakket</p></td><td colspan=\"1\" rowspan=\"1\" colwidth=\"294\"><p>255% tot €2.500 + 260 free spins over 3 stortingen</p></td></tr><tr><td colspan=\"1\" rowspan=\"1\"><p>Minimale storting voor acties</p></td><td colspan=\"1\" rowspan=\"1\" colwidth=\"294\"><p>€20</p></td></tr><tr><td colspan=\"1\" rowspan=\"1\"><p>VIP-programma</p></td><td colspan=\"1\" rowspan=\"1\" colwidth=\"294\"><p>17 niveaus, tot 15% wekelijkse cashback</p></td></tr><tr><td colspan=\"1\" rowspan=\"1\"><p>Valuta</p></td><td colspan=\"1\" rowspan=\"1\" colwidth=\"294\"><p>Euro (EUR)</p></td></tr><tr><td colspan=\"1\" rowspan=\"1\"><p>Betaalmethoden</p></td><td colspan=\"1\" rowspan=\"1\" colwidth=\"294\"><p>Visa, Mastercard, Apple Pay, Google Pay, Open Banking, BTC, ETH, LTC, USDC</p></td></tr><tr><td colspan=\"1\" rowspan=\"1\"><p>Minimale uitbetaling</p></td><td colspan=\"1\" rowspan=\"1\" colwidth=\"294\"><p>€50</p></td></tr><tr><td colspan=\"1\" rowspan=\"1\"><p>Mobiel</p></td><td colspan=\"1\" rowspan=\"1\" colwidth=\"294\"><p>Web-app in de browser, geen download nodig</p></td></tr><tr><td colspan=\"1\" rowspan=\"1\"><p>Klantenservice</p></td><td colspan=\"1\" rowspan=\"1\" colwidth=\"294\"><p>Live chat 24/7 en e-mail</p></td></tr><tr><td colspan=\"1\" rowspan=\"1\"><p>Licentie</p></td><td colspan=\"1\" rowspan=\"1\" colwidth=\"294\"><p>Government of the Autonomous Island of Anjouan, Union of Comoros</p></td></tr></tbody></table><p>&nbsp;</p><h2>Slotorado Bonus en Promoties</h2><p>Het promotieaanbod van Slotorado casino is opgebouwd uit drie delen: een welkomstpakket voor nieuwe spelers, vaste wekelijkse en maandelijkse acties met een bonuscode, en een VIP-programma voor wie regelmatig speelt. Hieronder vind je per onderdeel wat je krijgt en welke voorwaarden gelden.</p><h3>Welkomstpakket: 255% tot €2.500 + 260 Free Spins</h3><p>Het standaard welkomstpakket is verdeeld over je eerste drie stortingen, telkens vanaf €20:</p><p>· &nbsp; &nbsp; &nbsp; &nbsp; 1e storting: 100% tot €500 + 100 free spins</p><p>· &nbsp; &nbsp; &nbsp; &nbsp; 2e storting: 80% tot €1.000 + 80 free spins</p><p>· &nbsp; &nbsp; &nbsp; &nbsp; 3e storting: 75% tot €1.000 + 80 free spins</p><p>Samen levert dat 255% tot €2.500 en 260 free spins op. Het bonusbedrag moet binnen 72 uur 40 keer worden ingezet, met een maximale inzet van €5 per spel. Houd er rekening mee dat de winst uit de welkomstbonus is begrensd: maximaal drie keer je storting, met een plafond van €250. Wie liever met grotere bedragen speelt, kan kiezen voor het High-Roller pakket, met een lagere inzetvereiste van 35x maar een kortere termijn van 24 uur.</p><h3>Wekelijkse en Maandelijkse Acties</h3><p>Na het welkomstpakket kun je elke week verder met een vaste actie. Iedere promotie activeer je met een eigen Slotorado casino bonus code:</p><table style=\"min-width: 495px;\"><colgroup><col style=\"min-width: 25px;\"><col style=\"width: 110px;\"><col style=\"width: 124px;\"><col style=\"width: 113px;\"><col style=\"width: 123px;\"></colgroup><tbody><tr><td colspan=\"1\" rowspan=\"1\"><p>Actie</p></td><td colspan=\"1\" rowspan=\"1\" colwidth=\"110\"><p>Bonus</p></td><td colspan=\"1\" rowspan=\"1\" colwidth=\"124\"><p>Bonuscode</p></td><td colspan=\"1\" rowspan=\"1\" colwidth=\"113\"><p>Min. storting</p></td><td colspan=\"1\" rowspan=\"1\" colwidth=\"123\"><p>Inzetvereiste</p></td></tr><tr><td colspan=\"1\" rowspan=\"1\"><p>Wednesday Free Spins</p></td><td colspan=\"1\" rowspan=\"1\" colwidth=\"110\"><p>50 FS bij €30, 100 FS bij €50</p></td><td colspan=\"1\" rowspan=\"1\" colwidth=\"124\"><p>WEDNESDAY</p></td><td colspan=\"1\" rowspan=\"1\" colwidth=\"113\"><p>€30</p></td><td colspan=\"1\" rowspan=\"1\" colwidth=\"123\"><p>40x</p></td></tr><tr><td colspan=\"1\" rowspan=\"1\"><p>Friday Reload</p></td><td colspan=\"1\" rowspan=\"1\" colwidth=\"110\"><p>30% tot €300</p></td><td colspan=\"1\" rowspan=\"1\" colwidth=\"124\"><p>FRIDAY</p></td><td colspan=\"1\" rowspan=\"1\" colwidth=\"113\"><p>€20</p></td><td colspan=\"1\" rowspan=\"1\" colwidth=\"123\"><p>40x</p></td></tr><tr><td colspan=\"1\" rowspan=\"1\"><p>Weekend Bonus Boost</p></td><td colspan=\"1\" rowspan=\"1\" colwidth=\"110\"><p>50% tot €500 + 50 FS</p></td><td colspan=\"1\" rowspan=\"1\" colwidth=\"124\"><p>WEEKEND</p></td><td colspan=\"1\" rowspan=\"1\" colwidth=\"113\"><p>€50</p></td><td colspan=\"1\" rowspan=\"1\" colwidth=\"123\"><p>40x</p></td></tr><tr><td colspan=\"1\" rowspan=\"1\"><p>Monthly Power-Up</p></td><td colspan=\"1\" rowspan=\"1\" colwidth=\"110\"><p>100% tot €300</p></td><td colspan=\"1\" rowspan=\"1\" colwidth=\"124\"><p>POWERUP</p></td><td colspan=\"1\" rowspan=\"1\" colwidth=\"113\"><p>€30</p></td><td colspan=\"1\" rowspan=\"1\" colwidth=\"123\"><p>40x</p></td></tr></tbody></table><p>&nbsp;</p><p>Een paar regels om te onthouden: de winst uit de Friday Reload is begrensd op €100, de Weekend Bonus Boost is alleen beschikbaar als je al meer dan drie stortingen hebt gedaan, en de Monthly Power-Up kun je één keer per kalendermaand gebruiken. Bij alle vier de acties geldt een maximale inzet van €5 per spel.</p><h3>Slotorado Bonus Code en No Deposit</h3><p>Voor het welkomstpakket heb je geen code nodig: het pakket is gekoppeld aan je nieuwe account en wordt geactiveerd met je eerste storting. Een bonuscode gebruik je alleen voor de wekelijkse en maandelijkse acties hierboven. Elke code is één keer per actie geldig, dus vul hem pas in als je die promotie echt wilt gebruiken.</p><p>Een Slotorado no deposit bonus code maakt geen deel uit van het vaste aanbod. Alle bonussen worden geactiveerd met een storting. Tijdelijke acties zonder storting kunnen voorkomen, maar die verschijnen dan in het promotieoverzicht van je account. Wees voorzichtig met een Slotorado promo code van onbekende websites: zulke codes zijn vaak verlopen of ongeldig.</p><h3>Belangrijke Bonusregels</h3><p>· &nbsp; &nbsp; &nbsp; &nbsp; Er kan steeds maar één bonus tegelijk actief zijn; een nieuwe activeren annuleert de lopende bonus.</p><p>· &nbsp; &nbsp; &nbsp; &nbsp; Acties gelden per speler, huishouden, IP-adres, betaalkaart en apparaat.</p><p>· &nbsp; &nbsp; &nbsp; &nbsp; Wie limieten voor verantwoord spelen heeft ingesteld, kan geen bonussen ontvangen.</p><p>· &nbsp; &nbsp; &nbsp; &nbsp; Een lopende bonus kun je zelf stoppen met de knop Cancel Bonus.</p><p>· &nbsp; &nbsp; &nbsp; &nbsp; Bij verschillen tussen vertalingen is de Engelse versie van de voorwaarden leidend.</p><h2>VIP-Programma met 17 Niveaus</h2><p>Spelers die regelmatig actief zijn, sparen ervaringspunten en stijgen zo door 17 VIP-niveaus: van Starter via Scout, Gold Seeker en Treasure Hunter tot de hoogste niveaus El Dorado Legend 1 tot en met 4. Op elk nieuw niveau ontvang je een beloning, zoals free spins of bonusgeld, en vanaf Scout 3 begint de wekelijkse cashback bij 1%. Hoe hoger je niveau, hoe hoger het percentage, tot maximaal 15% cashback per week op de hoogste niveaus.</p><p>Het VIP-programma van casino Slotorado is daarmee vooral interessant voor spelers die langere tijd bij één casino blijven. Je hoeft je nergens apart voor aan te melden: de punten worden automatisch bijgehouden in je account.</p><h2>Spellen bij Slotorado Casino</h2><p>Met meer dan 15.000 spellen van ruim 130 providers is het aanbod van Slotorado casino een van de grootste die je online tegenkomt. De lobby is ingedeeld in duidelijke categorieën, zodat je snel vindt wat je zoekt.</p><h3>Gokkasten</h3><p>Gokkasten vormen het grootste deel van de bibliotheek van Slotorado casino. Je vindt klassieke fruitautomaten, moderne videoslots, Megaways-titels en Hold and Win-spellen met bonusrondes. Populaire titels zijn onder meer Wolf Power Megaways, Buffalo Power Megaways, 15 Dragon Pearls, Solar Queen en Thunder Coins. Veel slots zijn ook in een demoversie te bekijken, zodat je de spelregels kunt leren voordat je met echt geld speelt.</p><h3>Live Casino en Tafelspellen</h3><p>In het live casino speel je in realtime tegen echte dealers. Er zijn verschillende tafels voor roulette, blackjack en baccarat, met inzetlimieten voor zowel beginners als ervaren spelers. Daarnaast vind je digitale tafelspellen die je in je eigen tempo speelt, zonder te wachten op andere spelers.</p><h3>Crash en Instant Games</h3><p>Voor snelle rondes zijn er crashspellen en instant games, zoals Aviator, Space XY en Triple Cash or Crash. Bij deze spellen bepaal je zelf wanneer je uitstapt, wat ze geschikt maakt voor korte sessies op je telefoon.</p><h3>Softwareproviders</h3><p>De spellen komen van gerenommeerde studio’s, waaronder Playson, Booongo, Platipus en Winfinity, aangevuld met meer dan honderd andere providers. Nieuwe titels worden regelmatig toegevoegd, zodat het aanbod steeds actueel blijft.</p><h2>Registreren en Inloggen</h2><p>Een account aanmaken bij Slotorado online casino duurt maar een paar minuten. Het formulier is kort en werkt op desktop en mobiel op dezelfde manier. Zorg dat je gegevens kloppen met je identiteitsbewijs, want die worden later gecontroleerd bij je eerste uitbetaling.</p><h3>Slotorado Registreren</h3><p>1.&nbsp; &nbsp; Klik op de knop Registreren op de homepage.</p><p>2.&nbsp; &nbsp; Vul je e-mailadres in en kies een sterk wachtwoord.</p><p>3.&nbsp; &nbsp; Voer je persoonlijke gegevens in: naam, geboortedatum en adres.</p><p>4.&nbsp; &nbsp; Kies euro (EUR) als valuta.</p><p>5.&nbsp; &nbsp; Accepteer de algemene voorwaarden en bevestig dat je 18 jaar of ouder bent.</p><p>6.&nbsp; &nbsp; Bevestig je account en doe je eerste storting om het welkomstpakket te activeren.</p><h3>Slotorado Login</h3><p>Heb je al een account, dan verloopt de Slotorado casino login via de knop Inloggen rechtsboven. Vul je e-mailadres en wachtwoord in en je hebt direct toegang tot je saldo, actieve bonussen en de kassa. Ben je je wachtwoord vergeten, gebruik dan de hersteloptie in het inlogscherm; je ontvangt een e-mail om een nieuw wachtwoord in te stellen. De login werkt op dezelfde manier op desktop, tablet en mobiel.</p><h2>Storten en Uitbetalen</h2><p>Bij Slotorado casino speel je in euro’s. Je kunt storten en opnemen met de meest gebruikte betaalmethoden, inclusief cryptovaluta.</p><table style=\"min-width: 461px;\"><colgroup><col style=\"min-width: 25px;\"><col style=\"width: 148px;\"><col style=\"width: 142px;\"><col style=\"width: 146px;\"></colgroup><tbody><tr><td colspan=\"1\" rowspan=\"1\"><p>Betaalmethode</p></td><td colspan=\"1\" rowspan=\"1\" colwidth=\"148\"><p>Type</p></td><td colspan=\"1\" rowspan=\"1\" colwidth=\"142\"><p>Storten</p></td><td colspan=\"1\" rowspan=\"1\" colwidth=\"146\"><p>Uitbetalen</p></td></tr><tr><td colspan=\"1\" rowspan=\"1\"><p>Visa / Mastercard</p></td><td colspan=\"1\" rowspan=\"1\" colwidth=\"148\"><p>Betaalkaart</p></td><td colspan=\"1\" rowspan=\"1\" colwidth=\"142\"><p>Ja</p></td><td colspan=\"1\" rowspan=\"1\" colwidth=\"146\"><p>Ja</p></td></tr><tr><td colspan=\"1\" rowspan=\"1\"><p>Apple Pay / Google Pay</p></td><td colspan=\"1\" rowspan=\"1\" colwidth=\"148\"><p>Mobiele betaling</p></td><td colspan=\"1\" rowspan=\"1\" colwidth=\"142\"><p>Ja</p></td><td colspan=\"1\" rowspan=\"1\" colwidth=\"146\"><p>Volgens kassa</p></td></tr><tr><td colspan=\"1\" rowspan=\"1\"><p>Open Banking</p></td><td colspan=\"1\" rowspan=\"1\" colwidth=\"148\"><p>Directe bankbetaling</p></td><td colspan=\"1\" rowspan=\"1\" colwidth=\"142\"><p>Ja</p></td><td colspan=\"1\" rowspan=\"1\" colwidth=\"146\"><p>Ja</p></td></tr><tr><td colspan=\"1\" rowspan=\"1\"><p>Bitcoin, Ethereum, Litecoin, USDC</p></td><td colspan=\"1\" rowspan=\"1\" colwidth=\"148\"><p>Crypto</p></td><td colspan=\"1\" rowspan=\"1\" colwidth=\"142\"><p>Ja</p></td><td colspan=\"1\" rowspan=\"1\" colwidth=\"146\"><p>Ja</p></td></tr></tbody></table><p>&nbsp;</p><p>Om mee te doen aan acties is de minimale storting €20. De exacte minimumbedragen per betaalmethode zie je in de kassa nadat je bent ingelogd.</p><h3>Slotorado Uitbetaling: Tijden en Limieten</h3><p>Een Slotorado uitbetaling kun je aanvragen vanaf €50. Er gelden maximale bedragen van €700 per dag, €5.000 per week en €15.000 per maand; hogere winsten worden in de weken daarna uitgekeerd. Uitbetalingen worden verwerkt van maandag 07:00 tot vrijdag 16:00 (UTC). Na goedkeuring kan het afhankelijk van de betaalmethode nog enkele werkdagen duren voordat het geld binnen is; crypto is meestal de snelste optie.</p><p>Let op twee regels die vaak vergeten worden: elke storting moet eerst drie keer worden ingezet voordat je kunt opnemen, ook zonder bonus. En wie een uitbetaling aanvraagt terwijl er een bonus actief is, verliest die bonus.</p><h3>Verificatie (KYC)</h3><p>Bij je eerste uitbetaling kan het casino vragen om je identiteit te bevestigen. Je uploadt dan een geldig identiteitsbewijs en een recent bewijs van adres, en soms een bewijs dat de betaalmethode van jou is. Door dit vroeg te regelen, voorkom je vertraging wanneer je je winst wilt opnemen.</p><h2>Slotorado App en Mobiel Spelen</h2><p>Een Slotorado app in de App Store of Google Play is er niet. In plaats daarvan werkt het casino als web-app direct in je mobiele browser op iOS en Android. Je opent de site, logt in en hebt toegang tot alle spellen, de kassa, je bonussen en de live chat. Wil je sneller toegang, voeg de site dan via het browsermenu toe aan je beginscherm; zo open je het casino met één tik, net als een gewone app.</p><h2>Veiligheid, Licentie en Verantwoord Spelen</h2><p>Slotorado wordt geëxploiteerd door Azure Lane Limitada, met als licentiegever de Government of the Autonomous Island of Anjouan, Union of Comoros. Betalingen worden verwerkt via Infofoot Tech Ltd. Het casino gebruikt SSL-versleuteling om je persoonlijke gegevens en transacties te beschermen.</p><p>Speel altijd met mate en alleen met geld dat je kunt missen. In je account kun je limieten instellen of een pauze nemen. Heb je het gevoel dat gokken niet meer leuk is, dan kun je in Nederland anoniem terecht bij Loket Kansspel voor advies en hulp. Spelen is alleen toegestaan vanaf 18 jaar.</p><h2>Klantenservice</h2><p>De klantenservice van Slotorado casino is 24 uur per dag, 7 dagen per week bereikbaar via live chat, de snelste manier om hulp te krijgen bij vragen over je account, bonussen of uitbetalingen. Voor uitgebreidere vragen of het insturen van documenten kun je een e-mail sturen naar E-mail.</p><h2>Waarom Kiezen voor Slotorado Casino Nederland</h2><p>Er zijn veel online casino’s, maar casino Slotorado onderscheidt zich op een paar punten die voor Nederlandse spelers het verschil maken. Het eerste is de omvang van het aanbod: met meer dan 15.000 titels vind je hier vrijwel elke bekende gokkast, aangevuld met nieuwe releases, live tafels en snelle crashspellen. Wie graag nieuwe providers ontdekt, kan bij Slotorado casino maandenlang spelen zonder in herhaling te vallen.</p><p>Het tweede punt is de structuur van de promoties. Waar veel casino’s volstaan met een eenmalige welkomstbonus, heeft Slotorado voor elke dag van de week een vaste actie met een duidelijke code. Zo weet je precies wanneer je extra free spins of een reload kunt verwachten, en kun je je stortingen daarop afstemmen.</p><p>Het derde punt is flexibiliteit bij het betalen. Naast kaarten en Open Banking accepteert het casino Apple Pay, Google Pay en meerdere cryptovaluta. Daardoor kun je kiezen tussen vertrouwde methoden en snelle crypto-uitbetalingen.</p><p>Tegelijk is het goed om de spelregels vooraf te kennen. De inzetvereisten zijn streng en er gelden limieten op uitbetalingen. Lees daarom altijd de voorwaarden van een actie voordat je deze activeert, en kies bewust of een bonus past bij jouw manier van spelen.</p><h2>Voor- en Nadelen</h2><p>Voordelen:</p><p>· &nbsp; &nbsp; &nbsp; &nbsp; Zeer groot spelaanbod: meer dan 15.000 titels van 130+ providers.</p><p>· &nbsp; &nbsp; &nbsp; &nbsp; Welkomstpakket van 255% tot €2.500 + 260 free spins.</p><p>· &nbsp; &nbsp; &nbsp; &nbsp; Vaste wekelijkse acties met duidelijke bonuscodes.</p><p>· &nbsp; &nbsp; &nbsp; &nbsp; VIP-programma met 17 niveaus en tot 15% cashback.</p><p>· &nbsp; &nbsp; &nbsp; &nbsp; Betalen met kaart, Apple Pay, Google Pay, Open Banking en crypto.</p><p>Nadelen:</p><p>· &nbsp; &nbsp; &nbsp; &nbsp; Strenge bonusregels: 40x inzet binnen 72 uur en een winstplafond van €250 op de welkomstbonus.</p><p>· &nbsp; &nbsp; &nbsp; &nbsp; Minimale uitbetaling van €50 en maximale limieten per dag, week en maand.</p>",
+  "pages": [],
   "faq_schema": {
     "@context": "https://schema.org",
     "@type": "FAQPage",
     "mainEntity": [
       {
         "@type": "Question",
-        "name": "",
+        "name": "Is Slotorado casino beschikbaar in Nederland?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": ""
+          "text": "Ja, Nederlandse spelers kunnen een account openen, in euro’s spelen en gebruikmaken van alle promoties. Slotorado heeft een licentie van Anjouan, niet van de Nederlandse Kansspelautoriteit."
         }
       },
       {
         "@type": "Question",
-        "name": "",
+        "name": "Hoe groot is de Slotorado bonus voor nieuwe spelers?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": ""
+          "text": "Het welkomstpakket bedraagt 255% tot €2.500 plus 260 free spins, verdeeld over de eerste drie stortingen vanaf €20."
         }
       },
       {
         "@type": "Question",
-        "name": "",
+        "name": "Heb ik een Slotorado casino bonus code nodig?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": ""
+          "text": "Voor het welkomstpakket niet. Codes zoals WEDNESDAY, FRIDAY, WEEKEND en POWERUP gebruik je alleen voor de wekelijkse en maandelijkse acties."
         }
       },
       {
         "@type": "Question",
-        "name": "",
+        "name": "Is er een no deposit bonus?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": ""
+          "text": "Nee, een bonus zonder storting hoort niet bij het vaste aanbod. Tijdelijke acties verschijnen in het promotieoverzicht van je account."
         }
       },
       {
         "@type": "Question",
-        "name": "",
+        "name": "Wat is de minimale uitbetaling?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": ""
+          "text": "Je kunt opnemen vanaf €50, met een maximum van €700 per dag, €5.000 per week en €15.000 per maand."
         }
       }
     ]
   },
-  "seo_description": "Speel de beste slots bij GramsBet Casino! Ontvang tot €10.000 + 777 FS welkomstbonus. Gelicentieerd casino met snelle uitbetalingen via iDEAL & crypto.",
+  "seo_description": "Slotorado casino voor Nederlandse spelers: 15.000+ spellen, welkomstpakket 255% tot €2.500 + 260 FS, wekelijkse bonuscodes en tot 15% cashback.",
   "redirect_site": null,
-  "hero_title": "GramsBet Casino voor spelers uit Nederland",
-  "hero_subtitle": "Van spin naar winst in minuten",
-  "hero_badge": "GramsBet Casino – Jouw Partner in Winst",
+  "hero_title": "Slotorado Casino Nederland",
+  "hero_subtitle": "Elke week nieuwe bonussen en free spins",
+  "hero_badge": "Slotorado Casino – 15.000+ Spellen",
   "cta_text": "Claim je bonus",
-  "tagline": "WELCOME BONUS 500% up to €10000+777 FS",
+  "tagline": "WELKOMSTPAKKET 255% tot €2.500 + 260FS",
   "features_list": null,
-  "footer_text": "© 2026. GramsBet Casino. All rights reserved",
-  "popup_text": "WELCOME BONUS 500% up to €10000+777 FS",
-  "faq_title": "FAQ – Veelgestelde Vragen",
+  "footer_text": "© 2026. Slotorado Casino. Alle rechten voorbehouden.",
+  "popup_text": "WELKOMSTPAKKET 255% tot €2.500 + 260 FS",
+  "faq_title": "Veelgestelde Vragen",
   "login_text": "Inloggen",
   "register_text": "Registreren",
-  "slots_title": "Spellen en Software providers",
-  "bonus_title": "Bonussen en acties",
+  "slots_title": "Spellen bij Slotorado Casino",
+  "bonus_title": "Slotorado Bonus en Promoties",
   "get_bonus_btn_text": "Claim je bonus",
   "redirect_link": "/play/ ",
   "home_name": "Slotorado Casino",
@@ -179,9 +85,15 @@
   "color_highlight_text": "#ffffff",
   "color_main_btn_text": "#051a2c",
   "cta_background": "#c0fd7a",
-  "logo": null,
-  "popup_logo": null,
-  "main_background_img": null,
+  "logo": {
+    "url": "/uploads/slotrado-casino-logo_N-N-N-N-N.webp"
+  },
+  "popup_logo": {
+    "url": "/uploads/slotrado-casino-logo_N-N-N-N-N.webp"
+  },
+  "main_background_img": {
+    "url": "/uploads/slotrado-casino-baner_N-N-N-N-N.webp"
+  },
   "header_menu": [
     {
       "link": "/play/",
@@ -269,80 +181,84 @@
   "Slots": [
     {
       "link": "/play/",
-      "logo": "",
-      "name": "",
-      "Name": ""
+      "logo": "/uploads/971cdbbaef550f5db9147c1294dd1f1c.webp",
+      "name": "Coin Volcano",
+      "Name": "Coin Volcano",
+      "logo_alt": "coin volcano"
     },
     {
       "link": "/play/",
-      "logo": "",
-      "name": "",
-      "Name": ""
+      "logo": "/uploads/90eb7679d61dc925454ef4d8ad9f4b6d.webp",
+      "name": "Dead or Alive",
+      "Name": "Dead or Alive",
+      "logo_alt": "Dead or Alive"
     },
     {
       "link": "/play/",
-      "logo": "",
-      "name": "",
-      "Name": ""
+      "logo": "/uploads/34da3cdbdf9eef7f8027bf5bf5a86c8a.webp",
+      "name": "Buffalo King Mega",
+      "Name": "Buffalo King Mega",
+      "logo_alt": "Buffalo King Megaways"
     },
     {
       "link": "/play/",
-      "logo": "",
-      "name": "",
-      "Name": ""
+      "logo": "/uploads/5b1f8512d7f0993d94e870a2c658042f.webp",
+      "name": "Book of Dead",
+      "Name": "Book of Dead",
+      "logo_alt": "Book of Dead"
     }
   ],
   "Bonuses": [
     {
       "link": "/play/",
-      "logo": "",
-      "name": "",
-      "Name": ""
+      "logo": "/uploads/3cd89a359c6c752b44f3203ec79790c0.webp",
+      "name": "Welkomstbonus 255% + 260 FS",
+      "Name": "Welkomstbonus 255% + 260 FS"
     },
     {
       "link": "/play/",
-      "logo": "",
-      "name": "",
-      "Name": ""
+      "logo": "/uploads/94d2f0583b87f4027db9940c29c43822.webp",
+      "name": "Friday Reload 30% tot €300",
+      "Name": "Friday Reload 30% tot €300"
     },
     {
       "link": "/play/",
-      "logo": "",
-      "name": "",
-      "Name": ""
+      "logo": "/uploads/074ffcde24a4bb9847b495805e11d148.webp",
+      "name": "Woensdag tot 100 Free Spins",
+      "Name": "Woensdag tot 100 Free Spins"
     },
     {
       "link": "/play/",
-      "logo": "",
-      "name": "",
-      "Name": ""
+      "logo": "/uploads/3cd89a359c6c752b44f3203ec79790c0.webp",
+      "name": "Weekend Boost 50% + 50 FS",
+      "Name": "Weekend Boost 50% + 50 FS"
     }
   ],
   "Reviews": null,
   "FAQ": [
     {
-      "answer": "",
-      "question": ""
+      "answer": "Ja, Nederlandse spelers kunnen een account openen, in euro’s spelen en gebruikmaken van alle promoties. Slotorado heeft een licentie van Anjouan, niet van de Nederlandse Kansspelautoriteit.",
+      "question": "Is Slotorado casino beschikbaar in Nederland?"
     },
     {
-      "answer": "",
-      "question": ""
+      "answer": "Het welkomstpakket bedraagt 255% tot €2.500 plus 260 free spins, verdeeld over de eerste drie stortingen vanaf €20.",
+      "question": "Hoe groot is de Slotorado bonus voor nieuwe spelers?"
     },
     {
-      "answer": "",
-      "question": ""
+      "answer": "Voor het welkomstpakket niet. Codes zoals WEDNESDAY, FRIDAY, WEEKEND en POWERUP gebruik je alleen voor de wekelijkse en maandelijkse acties.",
+      "question": "Heb ik een Slotorado casino bonus code nodig?"
     },
     {
-      "answer": "",
-      "question": ""
+      "answer": "Nee, een bonus zonder storting hoort niet bij het vaste aanbod. Tijdelijke acties verschijnen in het promotieoverzicht van je account.",
+      "question": "Is er een no deposit bonus?"
     },
     {
-      "answer": "",
-      "question": ""
+      "answer": "Je kunt opnemen vanaf €50, met een maximum van €700 per dag, €5.000 per week en €15.000 per maand.",
+      "question": "Wat is de minimale uitbetaling?"
     }
   ],
-  "_generated_at": "2026-10-14T15:59:17.684Z",
+  "_generated_at": "2026-11-10T23:45:14.031Z",
   "_version": "1.0.0",
-  "_last_deploy": "2026-10-14T15:59:23.620Z",
-  "_deploy_trigger": "0uciar"
+  "_last_deploy": "2026-11-10T23:45:14.681Z",
+  "_deploy_trigger": "bno3qs"
 }
