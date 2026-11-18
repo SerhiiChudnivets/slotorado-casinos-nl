@@ -41,10 +41,10 @@
       },
       {
         "@type": "Question",
-        "name": "Is er een no deposit bonus?",
+        "name": "Heb ik een bonuscode nodig?",
         "acceptedAnswer": {
           "@type": "Answer",
-          "text": "Nee, een bonus zonder storting hoort niet bij het vaste aanbod. Tijdelijke acties verschijnen in het promotieoverzicht van je account."
+          "text": "Niet voor het welkomstpakket: dat wordt geactiveerd met je eerste storting. Een bonuscode gebruik je alleen voor de wekelijkse en maandelijkse acties."
         }
       },
       {
@@ -250,16 +250,16 @@
       "question": "Heb ik een Slotorado casino bonus code nodig?"
     },
     {
-      "answer": "Nee, een bonus zonder storting hoort niet bij het vaste aanbod. Tijdelijke acties verschijnen in het promotieoverzicht van je account.",
-      "question": "Is er een no deposit bonus?"
+      "answer": "Niet voor het welkomstpakket: dat wordt geactiveerd met je eerste storting. Een bonuscode gebruik je alleen voor de wekelijkse en maandelijkse acties.",
+      "question": "Heb ik een bonuscode nodig?"
     },
     {
       "answer": "Je kunt opnemen vanaf €50, met een maximum van €700 per dag, €5.000 per week en €15.000 per maand.",
       "question": "Wat is de minimale uitbetaling?"
     }
   ],
-  "_generated_at": "2026-11-18T14:03:37.116Z",
+  "_generated_at": "2026-11-18T14:05:18.116Z",
   "_version": "1.0.0",
-  "_last_deploy": "2026-11-18T14:03:37.949Z",
-  "_deploy_trigger": "0elytm"
+  "_last_deploy": "2026-11-18T14:05:18.818Z",
+  "_deploy_trigger": "jzdmb3"
 }
