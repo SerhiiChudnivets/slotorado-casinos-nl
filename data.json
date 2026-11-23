@@ -2,10 +2,9 @@
   "name": "slotorado-casinos.nl",
   "site_name": "Slotorado Casino Nederland 🎁 255% tot €2.500 + 260 FS",
   "html_head": "<link rel=\"canonical\" href=\"https://slotorado-casinos.nl/\">\n<link rel=\"alternate\" href=\"https://slotorado-casinos.nl/\" hreflang=\"nl-NL\">\n<meta property=\"og:locale\" content=\"nl_NL\">\n<meta property=\"og:type\" content=\"website\">\n<meta property=\"og:title\" content=\"Slotorado Casino Nederland | 255% tot €2.500 + 260 FS\">\n<meta property=\"og:description\" content=\"Slotorado Casino voor Nederlandse spelers: 15.000+ spellen, welkomstpakket 255% tot €2.500 + 260 FS, wekelijkse bonuscodes en tot 15% cashback.\">\n<meta property=\"og:url\" content=\"https://slotorado-casinos.nl/\">\n<meta property=\"og:site_name\" content=\"Slotorado Casino\">\n<meta property=\"og:image\" content=\"https://slotorado-casinos.nl/uploads/slotrado-casino-baner_N-N-N-N-N.webp\">\n<meta name=\"twitter:card\" content=\"summary_large_image\">\n<meta name=\"twitter:title\" content=\"Slotorado Casino Nederland | 255% tot €2.500 + 260 FS\">\n<meta name=\"twitter:description\" content=\"Slotorado Casino voor Nederlandse spelers: 15.000+ spellen, welkomstpakket 255% tot €2.500 + 260 FS, wekelijkse bonuscodes en tot 15% cashback.\">\n<meta name=\"twitter:image\" content=\"https://slotorado-casinos.nl/uploads/slotrado-casino-baner_N-N-N-N-N.webp\">",
-  "url": "slotorado-casinos.nl",
   "template": "tupchiy",
   "language_code": "nl-NL",
-  "allow_indexing": false,
+  "allow_indexing": true,
   "redirect_404s_to_homepage": true,
   "use_www_version": false,
   "breadcrumbs": true,
@@ -258,8 +257,9 @@
       "question": "Wat is de minimale uitbetaling?"
     }
   ],
-  "_generated_at": "2026-11-18T15:43:54.815Z",
+  "url": "slotorado-casinos.nl",
+  "_generated_at": "2026-11-23T23:06:51.367Z",
   "_version": "1.0.0",
-  "_last_deploy": "2026-11-18T15:43:55.461Z",
-  "_deploy_trigger": "x24oxy"
+  "_last_deploy": "2026-11-23T23:06:52.022Z",
+  "_deploy_trigger": "1qf42d"
 }
